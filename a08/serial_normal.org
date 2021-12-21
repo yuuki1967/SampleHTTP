@@ -1,0 +1,1 @@
+O:11:"NormalClass":2:{s:3:"cmd";s:12:"safe command";s:4:"name";s:6:"suzuki";}

