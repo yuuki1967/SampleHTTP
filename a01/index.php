@@ -5,6 +5,7 @@ $user = "suzuki";
 $keyword = "";
 if(isset($_GET['keyword'])){
 	$keyword = $_GET['keyword'];
+	//Commented .
 }
 $mysqli = new mysqli(DB_HOST.':'.DB_PORT, DB_USER, DB_PASS, DB_DATABASE);
 
